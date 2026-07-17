@@ -1,6 +1,6 @@
 # 💰 Crypto Dashboard
 
-An interactive cryptocurrency market dashboard built in **Power BI**, tracking price trends, market performance, and key metrics across [top cryptocurrencies / a specific portfolio — edit this].
+An interactive cryptocurrency market dashboard built in **Power BI**, tracking price trends, market performance, and key metrics across 
 
 ## 🔍 Overview
 
@@ -8,14 +8,13 @@ This dashboard visualizes crypto market data to help track performance and spot 
 - [Price trends over time]
 - [Market cap comparison across coins]
 - [Trading volume analysis]
-- [Portfolio performance — if applicable]
+
 
 
 ## 🛠️ Tools Used
 
 - **Power BI** — dashboard design and visualization
-- **[Data source]** — e.g. CoinGecko API, CSV export, Excel, etc.
-
+- **[Data source]** — e.g. CoinGecko API,
 ## 📊 Data Source
 
 https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=20&page=1
